@@ -8,8 +8,11 @@ __*The steps:*__[1]
 
 1. Create a GitHub account and log-in.
 
-2. Go to github.atom.io/login/. Re-enter password.
+2. Go to https://github.atom.io/login/.
+	Re-enter password.
+	
 	Grant the access permission for atom.
+	
 	Copy the token.
 
 3. Open Atom. From the bottom right corner, click 'GitHub'. Enter the copied token, there.
@@ -17,13 +20,12 @@ __*The steps:*__[1]
 4. Create a local folder for the project.
 
 4. Download and install Git.
-	Open GitBash or CMD in the local folder for the project that you've just created, (and where you want to make a commit.)
-	Type
-		git config --global user.email "type_your_email_here"
-	Press Enter and type:
-		git config --global user.name "type_your_name_here"
-	And press Enter.
-(This way, it recognizes that it's you.)
+	Open GitBash in the local folder for the project that you've just created, (and where you want to make a commit.) Type in:
+	```
+	git config --global user.email "type_your_email_here"
+	git config --global user.name "type_your_name_here"
+	```
+	(This way, it recognizes that it's you.)
 
 5. Create a repository on Github.com.
 
@@ -53,7 +55,7 @@ Now, proceed to step 9.
 
 	Open GitBash in your project folder and use this command:[4]
 
-	`git rm -rf .git`
+	```git rm -rf .git```
 
 4. There is no need to unlink an unwanted local directory from GitHub, simply delete the local folder.[5]
 
