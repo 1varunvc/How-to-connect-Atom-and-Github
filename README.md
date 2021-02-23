@@ -36,7 +36,10 @@ After a few seconds, you will see a pop-up asking to login. Login there. Do not 
 
 # If you already have a project created locally
 In case you have already created all the files for your project locally, proceed the same way until step 8.
-After performing step 8, upload all the files from your original local project folder to the remote repository on GitHub. And proceed to step 9.
+
+After performing step 8, upload all the files from your original local project folder to the remote repository on GitHub, manually (i.e. in the way you would usually upload any file online.)
+
+Now, proceed to step 9.
 
 # Important Points:
 
