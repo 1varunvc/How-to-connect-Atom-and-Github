@@ -47,3 +47,21 @@ Important Points:
     
 	3. There is no need to unlink a local directory from GitHub, simply delete the local folder.
 
+
+__Useful Command Line commands (which don't seem to appear everytime a create a repo, so here they are.___
+
+*Create a new repository on the command line:
+
+echo "# How-to-connect-Atom-and-Github" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/1varunvc/How-to-connect-Atom-and-Github.git
+git push -u origin main
+
+*Push an existing repository from the command line
+
+git remote add origin https://github.com/1varunvc/How-to-connect-Atom-and-Github.git
+git branch -M main
+git push -u origin main
