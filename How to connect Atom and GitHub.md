@@ -34,7 +34,8 @@ Note:
 In case you have already created all the files for your project locally, proceed the same way until step 8.
 After performing step 8, upload all the files from your original local project folder to the remote repository on GitHub. And proceed to step 9.
 
-Note:
+Important Points:
+
 	1. While 'commiting' files from the staged area, make sure the 'message' box isn't empty.
   
 	2. Do not create unwanted branches in Atom, since there is no way to delete them. I referred this link below, but the code there, although correct, didn't seem to do anything.
