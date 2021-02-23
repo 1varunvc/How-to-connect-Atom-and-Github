@@ -51,7 +51,7 @@ Important Points:
 # Useful Command Line Commands
 
 * Create a new repository on the command line:
-`
+```
 echo "# How-to-connect-Atom-and-Github" >> README.md
 git init
 git add README.md
@@ -59,10 +59,10 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/username/repository-name.git
 git push -u origin main
-`
+```
 * Push an existing repository from the command line
-`
+```
 git remote add origin https://github.com/username/repository.git
 git branch -M main
 git push -u origin main
-`
+```
