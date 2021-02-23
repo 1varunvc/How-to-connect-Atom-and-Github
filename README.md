@@ -35,8 +35,13 @@ __*The steps:*__[1]
 
 8. Copy the path of local folder that you created in step 4, and paste it in the GitClone pop-up in Atom.
 
-9. In the bottom right corner of Atom, click 'Fetch'. Open web browser and switch to the repository tab (or basically open github.com).
-After a few seconds, you will see a pop-up asking to login. Login there. Do not choose the open for pasting token, because you would have to open "github.atom.io/login/" again, and as soon as you click anywhere else on the screen, the log-in pop-up would vanish.
+9. In the bottom right corner of Atom, click 'Fetch'.
+
+	Open web browser and switch to the repository tab (or basically open github.com).
+	
+	After a few seconds, you will see a pop-up asking to login. Login there.
+	
+	(Do not choose the option for pasting token, because you would have to open "github.atom.io/login/" again, and as soon as you click anywhere else on the screen, the log-in pop-up would vanish.)
 
 # If you already have a project created locally:
 In case you have already created all the files for your project locally, proceed the same way until step 8.
