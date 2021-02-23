@@ -48,7 +48,7 @@ Important Points:
 	3. There is no need to unlink a local directory from GitHub, simply delete the local folder.
 
 
-__Useful Command Line commands (which don't seem to appear everytime a create a repo, so here they are.___
+__Useful Command Line commands (which don't seem to appear everytime a create a repo, so here they are.)__
 
 * Create a new repository on the command line:
 
