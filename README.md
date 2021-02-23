@@ -52,7 +52,7 @@ After performing step 8, upload all the files from your original local project f
 
 * Create a new repository on the command line:
 ```
-echo "# How-to-connect-Atom-and-Github" >> README.md
+echo "# repository-name" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
@@ -62,7 +62,7 @@ git push -u origin main
 ```
 * Push an existing repository from the command line
 ```
-git remote add origin https://github.com/username/repository.git
+git remote add origin https://github.com/username/repository-name.git
 git branch -M main
 git push -u origin main
 ```
