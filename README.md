@@ -49,9 +49,9 @@ Now, proceed to step 9.
     
 3. To unlink a local directory from github, delete the .git folder.[2]
 
-Open GitBash and use this command:[3]
+	Open GitBash and use this command:[3]
 
-`git rm -rf .git`
+	`git rm -rf .git`
 
 4. There is no need to unlink an unwanted local directory from GitHub, simply delete the local folder.[4]
 
