@@ -2,7 +2,7 @@
 This repository essentially includes the simple steps to connect Atom and GitHub in correct order. Please suggest edits shall there be any.
 
 
-__*The steps:*__
+__*The steps:*__[0]
 
 1. Create a GitHub account and log-in.
 
@@ -49,7 +49,11 @@ Now, proceed to step 9.
     
 3. To unlink a local directory from github, delete the .git folder.[2]
 
-4. There is no need to unlink an unwanted local directory from GitHub, simply delete the local folder.[3]
+Open GitBash and use this command:[3]
+
+`git rm -rf .git`
+
+4. There is no need to unlink an unwanted local directory from GitHub, simply delete the local folder.[4]
 
 
 # Useful Command Line Commands
@@ -71,9 +75,13 @@ git branch -M main
 git push -u origin main
 ```
 # References
+[0] https://youtu.be/6HsZMl-qV5k
+
 [1] https://linuxize.com/post/how-to-delete-local-and-remote-git-branch/
 
 [2] https://discuss.atom.io/t/delete-root-directory-and-unlink-directory-to-github-repository/44355
 
-[3] https://stackoverflow.com/questions/5667106/how-to-delete-or-change-directory-of-a-cloned-git-repository-on-a-local-computer
+[3] https://teamtreehouse.com/community/how-to-remove-git-from-the-current-folder
+
+[4] https://stackoverflow.com/questions/5667106/how-to-delete-or-change-directory-of-a-cloned-git-repository-on-a-local-computer
 
