@@ -45,11 +45,11 @@ Now, proceed to step 9.
 
 1. While 'commiting' files from the staged area, make sure the 'message' box isn't empty.
   
-2. Do not create unwanted branches in Atom, since there is no way to delete them. I referred this link below, but the code there, although correct, didn't seem to do anything.
-
-https://stackoverflow.com/questions/5667106/how-to-delete-or-change-directory-of-a-cloned-git-repository-on-a-local-computer
+2. To delete a local or remote git branch, refer this link[1]. Avoid creating unwanted branches.
     
-3. There is no need to unlink a local directory from GitHub, simply delete the local folder.
+3. To unlink a local directory from github, delete the .git folder.[2]
+
+4. There is no need to unlink an unwanted local directory from GitHub, simply delete the local folder.[3]
 
 
 # Useful Command Line Commands
@@ -70,3 +70,7 @@ git remote add origin https://github.com/username/repository-name.git
 git branch -M main
 git push -u origin main
 ```
+# Reference
+[1] https://linuxize.com/post/how-to-delete-local-and-remote-git-branch/
+[2] https://discuss.atom.io/t/delete-root-directory-and-unlink-directory-to-github-repository/44355
+[3] https://stackoverflow.com/questions/5667106/how-to-delete-or-change-directory-of-a-cloned-git-repository-on-a-local-computer
