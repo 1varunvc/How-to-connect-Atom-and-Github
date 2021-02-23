@@ -70,7 +70,10 @@ git remote add origin https://github.com/username/repository-name.git
 git branch -M main
 git push -u origin main
 ```
-# Reference
+# References
 [1] https://linuxize.com/post/how-to-delete-local-and-remote-git-branch/
+
 [2] https://discuss.atom.io/t/delete-root-directory-and-unlink-directory-to-github-repository/44355
+
 [3] https://stackoverflow.com/questions/5667106/how-to-delete-or-change-directory-of-a-cloned-git-repository-on-a-local-computer
+
