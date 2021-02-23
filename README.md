@@ -1,5 +1,6 @@
 # How-to-connect-Atom-and-Github
 This repository essentially includes the simple steps to connect Atom and GitHub in correct order. Please suggest edits shall there be any.
+https://1varunvc.github.io/How-to-connect-Atom-and-Github/
 
 
 __*The steps:*__[0]
@@ -75,7 +76,7 @@ git branch -M main
 git push -u origin main
 ```
 # References
-[0] https://youtu.be/6HsZMl-qV5k
+[1] https://youtu.be/6HsZMl-qV5k
 
 [1] https://linuxize.com/post/how-to-delete-local-and-remote-git-branch/
 
