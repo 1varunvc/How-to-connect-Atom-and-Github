@@ -1,9 +1,10 @@
 # How-to-connect-Atom-and-Github
 This repository essentially includes the simple steps to connect Atom and GitHub in correct order. Please suggest edits shall there be any.
+
 https://1varunvc.github.io/How-to-connect-Atom-and-Github/
 
 
-__*The steps:*__[0]
+__*The steps:*__[1]
 
 1. Create a GitHub account and log-in.
 
@@ -46,19 +47,19 @@ Now, proceed to step 9.
 
 1. While 'commiting' files from the staged area, make sure the 'message' box isn't empty.
   
-2. To delete a local or remote git branch, refer this link[1]. Avoid creating unwanted branches.
+2. To delete a local or remote git branch, refer this link[2]. Avoid creating unwanted branches.
     
-3. To unlink a local directory from github, delete the .git folder.[2]
+3. To unlink a local directory from github, delete the .git folder.[3]
 
-	Open GitBash in your project folder and use this command:[3]
+	Open GitBash in your project folder and use this command:[4]
 
 	`git rm -rf .git`
 
-4. There is no need to unlink an unwanted local directory from GitHub, simply delete the local folder.[4]
+4. There is no need to unlink an unwanted local directory from GitHub, simply delete the local folder.[5]
 
 
 # Useful Command Line Commands:
-
+[6]
 * Create a new repository on the command line:
 ```
 echo "# repository-name" >> README.md
@@ -78,11 +79,12 @@ git push -u origin main
 # References
 [1] https://youtu.be/6HsZMl-qV5k
 
-[1] https://linuxize.com/post/how-to-delete-local-and-remote-git-branch/
+[2] https://linuxize.com/post/how-to-delete-local-and-remote-git-branch/
 
-[2] https://discuss.atom.io/t/delete-root-directory-and-unlink-directory-to-github-repository/44355
+[3] https://discuss.atom.io/t/delete-root-directory-and-unlink-directory-to-github-repository/44355
 
-[3] https://teamtreehouse.com/community/how-to-remove-git-from-the-current-folder
+[4] https://teamtreehouse.com/community/how-to-remove-git-from-the-current-folder
 
-[4] https://stackoverflow.com/questions/5667106/how-to-delete-or-change-directory-of-a-cloned-git-repository-on-a-local-computer
+[5] https://stackoverflow.com/questions/5667106/how-to-delete-or-change-directory-of-a-cloned-git-repository-on-a-local-computer
 
+[6] https://github.com/
