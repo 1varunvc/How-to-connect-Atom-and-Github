@@ -2,7 +2,7 @@
 This repository essentially includes the simple steps to connect Atom and GitHub in correct order. Please suggest edits shall there be any.
 
 
-__How to connect Atom and GitHub:__
+__*The steps:*__
 
 1. Create a GitHub account and log-in.
 
@@ -34,7 +34,7 @@ __How to connect Atom and GitHub:__
 9. In the bottom right corner of Atom, click 'Fetch'. Open web browser and switch to the repository tab (or basically open github.com).
 After a few seconds, you will see a pop-up asking to login. Login there. Do not choose the open for pasting token, because you would have to open "github.atom.io/login/" again, and as soon as you click anywhere else on the screen, the log-in pop-up would vanish.
 
-Note:
+# If you already have a project created locally
 In case you have already created all the files for your project locally, proceed the same way until step 8.
 After performing step 8, upload all the files from your original local project folder to the remote repository on GitHub. And proceed to step 9.
 
@@ -48,20 +48,20 @@ Important Points:
 	3. There is no need to unlink a local directory from GitHub, simply delete the local folder.
 
 
-__Useful Command Line commands (which don't seem to appear everytime a create a repo, so here they are.)__
+# Useful Command Line Commands
 
 * Create a new repository on the command line:
 
-echo "# How-to-connect-Atom-and-Github" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/username/repository-name.git
-git push -u origin main
+	echo "# How-to-connect-Atom-and-Github" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin https://github.com/username/repository-name.git
+	git push -u origin main
 
 * Push an existing repository from the command line
 
-git remote add origin https://github.com/username/repository.git
-git branch -M main
-git push -u origin main
+	git remote add origin https://github.com/username/repository.git
+	git branch -M main
+	git push -u origin main
