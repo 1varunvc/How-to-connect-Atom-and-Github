@@ -1,9 +1,6 @@
 # How-to-connect-Atom-and-Github
 This repository essentially includes the simple steps to connect Atom and GitHub in correct order. Please suggest edits shall there be any.
 
-https://1varunvc.github.io/How-to-connect-Atom-and-Github/
-
-
 __*The steps:*__[1]
 
 1. Create a GitHub account and log-in.
@@ -63,8 +60,6 @@ Now, proceed to step 9.
 	```git rm -rf .git```
 
 4. There is no need to unlink an unwanted local directory from GitHub, simply delete the local folder.[5]
-
-
 # Useful Command Line Commands:
 [6]
 * Create a new repository on the command line:
@@ -83,6 +78,8 @@ git remote add origin https://github.com/username/repository-name.git
 git branch -M main
 git push -u origin main
 ```
+#  Useless Link
+https://1varunvc.github.io/How-to-connect-Atom-and-Github/
 # References
 [1] https://youtu.be/6HsZMl-qV5k
 
