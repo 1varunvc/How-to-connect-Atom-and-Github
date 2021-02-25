@@ -1,5 +1,5 @@
 # How-to-connect-Atom-and-Github
-This repository essentially includes the simple steps to connect Atom and GitHub in correct order. Please suggest edits shall there be any.
+This repository essentially includes the simple steps to connect Atom and GitHub in proper order. Please suggest edits shall there be any.
 
 ## Steps
 [1]
@@ -47,6 +47,15 @@ In case you have already created all the files for your project locally, proceed
 After performing step 8, upload all the files from your original local project folder to the remote repository on GitHub, manually (i.e. in the way you would usually upload any file online.)
 
 Now, proceed to step 9.
+
+## How to log-out Github from Atom?
+1. Log out from atom.
+
+In atom, press Ctrl + Shift + P. Search for 'Github Logout' and click it.
+
+2. Remove token ID. That is, log-out of https://github.atom.io/login.
+
+Open github account on your browser. Click the profile picture on top right corner > Settings > Applications. Now find Atom, and revoke access.
 
 ## Important Points:
 
