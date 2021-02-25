@@ -61,7 +61,7 @@ Now, proceed to step 9.
 	```git rm -rf .git```
 
 4. There is no need to unlink an unwanted local directory from GitHub, simply delete the local folder.[5]
-# Useful Command Line Commands:
+## Useful Command Line Commands:
 [6]
 * Create a new repository on the command line:
 ```
