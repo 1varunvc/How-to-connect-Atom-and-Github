@@ -99,6 +99,6 @@ https://1varunvc.github.io/How-to-connect-Atom-and-Github/
 
 [4] https://teamtreehouse.com/community/how-to-remove-git-from-the-current-folder
 
-[5] https://stackoverflow.com/questions/5667106/how-to-delete-or-change-directory-of-a-cloned-git-repository-on-a-local-computer
+[5] https://stackoverflow.com/q/5667106/14597561
 
 [6] https://github.com/
